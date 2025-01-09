@@ -8,8 +8,8 @@ I'm driven to grow in network administration and cybersecurity, aiming to contri
 
 
 # My projects
-- [**Database Manager**](#https://github.com/lukatinarelli/ejercicio_bbdd): My first **"big" project**, a database manager that allows users to perform CRUD operations (**Create, Read, Update, Delete**) on their data. It also provides an easy way to create and delete tables in the database.
-- [**Word and Syllable Analyzer**](#https://github.com/lukatinarelli/Analizador_de_palabras): A word analyzer and syllable separator for Spanish and Catalan, developed using HTML, CSS, and JavaScript.
+- [**Database Manager**](https://github.com/lukatinarelli/ejercicio_bbdd): My first **"big" project**, a database manager that allows users to perform CRUD operations (**Create, Read, Update, Delete**) on their data. It also provides an easy way to create and delete tables in the database.
+- [**Word and Syllable Analyzer**](https://github.com/lukatinarelli/Analizador_de_palabras): A word analyzer and syllable separator for Spanish and Catalan, developed using HTML, CSS, and JavaScript.
 
 
 # Skills
