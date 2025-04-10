@@ -10,8 +10,8 @@ I'm driven to grow in network administration and cybersecurity, aiming to contri
 # My projects
 - [**Database Manager**](https://github.com/lukatinarelli/ejercicio_bbdd): My first **"big" project**, a database manager that allows users to perform CRUD operations (**Create, Read, Update, Delete**) on their data. It also provides an easy way to create and delete tables in the database.
 - [**Word and Syllable Analyzer**](https://github.com/lukatinarelli/Analizador_de_palabras): A word analyzer and syllable separator for Spanish and Catalan, developed using HTML, CSS, and JavaScript.
-- [8 Queens Problem](https://github.com/lukatinarelli/8-Reinas): A Python implementation of the famous "8 Queens" puzzle, where the goal is to place 8 queens on an 8x8 chessboard so that no two queens can attack each other. The solution uses backtracking and recursion to find all valid placements of the queens.
--  [Sudoku Solver](https://github.com/lukatinarelli/Sudoku): A Python project that solves Sudoku puzzles using recursion. The program loads puzzles from a text file and solves them step-by-step, ensuring that the solution is valid by checking rows, columns, and subgrids.
+- [**8 Queens Problem**](https://github.com/lukatinarelli/8-Reinas): A Python implementation of the famous "8 Queens" puzzle, where the goal is to place 8 queens on an 8x8 chessboard so that no two queens can attack each other. The solution uses backtracking and recursion to find all valid placements of the queens.
+- [**Sudoku Solver**](https://github.com/lukatinarelli/Sudoku): A Python project that solves Sudoku puzzles using recursion. The program loads puzzles from a text file and solves them step-by-step, ensuring that the solution is valid by checking rows, columns, and subgrids.
 
 
 # Skills
