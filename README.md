@@ -1,4 +1,4 @@
-# Hi I'm Luka 👋
+# Hi, I'm Luka 👋
 
 I'm a **Network Systems Administration (ASIR) student** passionate about technology and always eager to learn. My studies focus on **operating systems**, **networking**, **virtualization**, and databases.
 
