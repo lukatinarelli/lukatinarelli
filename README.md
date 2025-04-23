@@ -22,6 +22,7 @@ I'm driven to grow in network administration and cybersecurity, aiming to contri
 - Java
 - Bash
 - PHP
+- Processing
 - Microsoft BASIC
 ## Other Technical Skills
 - Network Administration
