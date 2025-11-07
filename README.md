@@ -7,7 +7,7 @@
 
 # 🧠 About Me 
 - 🏫: I’m currently finishing my degree in Network Systems Administration (ASIR).
-- 💼: I’m doing my internship at @paradigmadigital, helping manage and maintain cloud environments for clients.
+- 💼: I’m doing my internship at **[@paradigmadigital](#https://github.com/paradigmadigital)**, helping manage and maintain cloud environments for clients.
 - 💻: I enjoy working with Linux systems, Python, and automation tools like Terraform and Ansible, as well as cloud platforms such as AWS and Azure.
 - 🌱: I’m currently diving into cybersecurity through @s4vitar’s course, and expanding my knowledge in Kubernetes.
 - 🤔: I’m looking for opportunities to grow in cybersecurity, network administration, and cloud automation.
