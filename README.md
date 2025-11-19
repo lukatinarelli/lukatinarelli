@@ -19,7 +19,7 @@
 <h1 align="left">⚙️ Skills</h1>
 
 ### 🛠️ &nbsp;Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,ansible,azure,bash,cpp,css,cloudflare,docker,flask,gcp,git,go,grafana,html,js,jenkins,kubernetes,linux,mysql,neovim,obsidian,php,python,sqlite,terraform,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,ansible,azure,bash,cpp,css,cloudflare,docker,flask,gcp,git,go,grafana,html,js,jenkins,kubernetes,linux,markdown,mysql,neovim,obsidian,php,python,sqlite,terraform,vscode&theme=light)](https://skillicons.dev)
 
 ### 📊 &nbsp;GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukatinarelli&show_icons=true&locale=en" alt="lukatinarelli" /></p>
