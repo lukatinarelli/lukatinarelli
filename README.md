@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">A passionate junior systems & cloud engineer inspired by cybersecurity</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukatinarelli" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukatinarelli" alt="GitHub Streak" width="600" /></p>
 
 ---
 
@@ -19,13 +19,17 @@
 <h1 align="left">⚙️ Skills</h1>
 
 ### 🛠️ &nbsp;Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,ansible,azure,bash,cpp,css,cloudflare,docker,flask,gcp,git,go,grafana,html,js,jenkins,kubernetes,linux,markdown,mysql,neovim,obsidian,php,python,sqlite,terraform,vscode&theme=light)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws,ansible,azure,bash,cpp,css,cloudflare,docker,flask,gcp,git,go,grafana,html,js,jenkins,kubernetes,linux,markdown,mysql,neovim,obsidian,php,python,sqlite,terraform,vscode&theme=light" alt="My Skills" width="1000"/>
+  </a>
+</p>
 
 ### 📈 Top languages
-<img src="https://github-readme-stats-drab-nine-95.vercel.app/api/top-langs?username=lukatinarelli&show_icons=true&locale=en&layout=compact" alt="lukatinarelli" />
+<img src="https://github-readme-stats-drab-nine-95.vercel.app/api/top-langs?username=lukatinarelli&show_icons=true&locale=en&layout=compact" alt="lukatinarelli" width="400" />
 
 ### 📊 &nbsp;GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats-drab-nine-95.vercel.app/api?username=lukatinarelli&show_icons=true&locale=en" alt="lukatinarelli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-drab-nine-95.vercel.app/api?username=lukatinarelli&show_icons=true&locale=en" alt="lukatinarelli" width="500" /></p>
 
 ---
 
