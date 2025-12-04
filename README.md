@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">A passionate junior systems & cloud engineer inspired by cybersecurity</h3>
 
+<p align="center"><img src="https://streak-stats.demolab.com?user=lukatinarelli" alt="GitHub Streak" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukatinarelli&show_icons=true&locale=en&layout=compact" alt="lukatinarelli" /></p>
 
 ---
