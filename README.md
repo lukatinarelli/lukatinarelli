@@ -5,14 +5,14 @@
 
 ---
 
-# 🧠 About Me 
-- 🏫: I’m currently finishing my degree in Network Systems Administration (ASIR).
-- 💼: I’m doing my internship at **[@paradigmadigital](https://github.com/paradigmadigital)**, helping manage and maintain cloud environments for clients.
-- 💻: I enjoy working with Linux systems, Python, and automation tools like Terraform and Ansible, as well as cloud platforms such as AWS and Azure.
-- 🌱: I’m currently diving into cybersecurity through @s4vitar’s course, and expanding my knowledge in Kubernetes.
-- 🤔: I’m looking for opportunities to grow in cybersecurity, network administration, and cloud automation.
-- 💬: Ask me about Linux, networking, system administration, or cybersecurity basics! 🔒👨‍💻
-- 🌍: My native language is Spanish and Italian; English at B2 level.
+# 🧠 About Me
+- 🏫 I’m currently finishing my degree in Network Systems Administration (ASIR).  
+- 💼 I’m doing my internship at **[@paradigmadigital](https://github.com/paradigmadigital)** as a **DevOps intern**, working with cloud environments and automation.  
+- 💻 I enjoy working with Linux systems, Python, and automation tools like Terraform and Ansible, as well as cloud platforms such as AWS and Azure.  
+- 🌱 I’m currently diving into cybersecurity through @s4vitar’s course and expanding my knowledge in DevOps.  
+- 🤔 I’m looking for opportunities to grow in **cybersecurity, cloud automation, and network administration**.  
+- 💬 Ask me about Linux, networking, system administration, or cybersecurity basics! 🔒👨‍💻  
+- 🌍 Native in Spanish and Italian; English at B2 level.
 
 ---
 
@@ -33,15 +33,34 @@
 
 ---
 
-<h1>🏆Certifications & Courses 🏆</h1>
+<h1>🏆 Certifications & Courses</h1>
 
-- 🟩 **CCNA (Cisco Certified Network Associate)** — Cisco Networking Academy: _Fundamentals of networking and routing (official Cisco certification)._
+### 📜 Certifications
+- 🟩 **CCNA (Cisco Certified Network Associate)** — Cisco Networking Academy  
+  <i>Fundamentals of networking, routing, and switching (official certification).</i>
 
-- 🟪 **Hack4u** → Practical technical training in *ethical hacking*, *Linux*, and *lab environments*.
+### 🧪 Technical Courses
+- 🐧 **Hack4u (Cybersecurity & Linux)**  
+  - Linux Personalization  
+  - Linux Introduction  
+  - Offensive Python  
+  - Hacking Introduction (in progress)
 
-- 📚 **Udemy Courses** → Terraform, Ansible, Kubernetes, AWS *(technical courses, not official certifications)*
+- ☁️ **Udemy (Cloud & Infrastructure)**  
+  - AWS Cloud Practitioner  
+  - Terraform for DevOps  
+  - Ansible for Automation  
+  - Kubernetes Fundamentals  
 
-- 🎓 **High School Technical Workshops** → Microbit Workshop (Arduino), Blender 3D Creation, 3D Modelling and Printing, Mobile Apps Development
+- ⚙️ **O’Reilly (DevOps Path)**  
+  - Complete DevOps training program (in progress)
+
+### 🎓 Additional Training
+- **High School Technical Workshops:**  
+  - Microbit Workshop (Arduino)  
+  - Blender 3D Creation  
+  - 3D Modelling & Printing  
+  - Mobile Apps Development
 
 ---
 
