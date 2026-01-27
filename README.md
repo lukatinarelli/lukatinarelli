@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
-<h3 align="center">A passionate junior systems & cloud engineer inspired by cybersecurity</h3>
+<h3 align="center">Junior Systems & Cloud Engineer | DevOps & Linux | Cybersecurity Enthusiast</h3>
 
 <p align="center"><img src="https://github-streak-stats-theta.vercel.app/?user=lukatinarelli" alt="GitHub Streak" width="600" /></p>
 
 ---
 
 # 🧠 About Me
-- 🏫 I’m currently finishing my degree in Network Systems Administration (ASIR).  
-- 💼 I’m doing my internship at **[@paradigmadigital](https://github.com/paradigmadigital)** as a **DevOps intern**, working with cloud environments and automation.  
-- 💻 I enjoy working with Linux systems, Python, and automation tools like Terraform and Ansible, as well as cloud platforms such as AWS and Azure.  
-- 🌱 I’m currently diving into cybersecurity through @s4vitar’s course and expanding my knowledge in DevOps.  
-- 🤔 I’m looking for opportunities to grow in **cybersecurity, cloud automation, and network administration**.  
-- 💬 Ask me about Linux, networking, system administration, or cybersecurity basics! 🔒👨‍💻  
-- 🌍 Native in Spanish and Italian; English at B2 level.
+- 🎓 Finishing my degree in Network Systems Administration (ASIR).
+- 💼 DevOps intern at **[@paradigmadigital](https://github.com/paradigmadigital)**.
+- 💻 Passionate about Linux, automation, and cloud platforms (AWS & Azure).
+- 🌱 Currently learning cybersecurity (Hack4u course).
+- 🔎 Looking for growth opportunities in **cybersecurity, cloud automation, and network administration**.
+- 🌍 Native in Spanish & Italian — English at B2 level.
 
 ---
 
