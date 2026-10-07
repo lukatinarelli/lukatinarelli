@@ -25,10 +25,10 @@
 </p>
 
 ### 📈 Top languages
-<img src="https://github-readme-stats-drab-nine-95.vercel.app/api/top-langs?username=lukatinarelli&show_icons=true&locale=en&layout=compact" alt="lukatinarelli" width="400" />
+<img src="profile/top-langs.svg" alt="lukatinarelli" width="400" />
 
 ### 📊 &nbsp;GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats-drab-nine-95.vercel.app/api?username=lukatinarelli&show_icons=true&locale=en" alt="lukatinarelli" width="500" /></p>
+<p>&nbsp;<img align="center" src="profile/stats.svg" alt="lukatinarelli" width="550" /></p>
 
 ---
 
