@@ -1,4 +1,4 @@
-name: Generate GitHub Stats
+STREAK_STATS_TOKENname: Generate GitHub Stats
 
 on:
   schedule:
@@ -18,17 +18,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=lukatinarelli&show_icons=true&locale=en
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en
           token: ${{ secrets.STREAK_STATS_TOKEN }}
-          path: stats.svg
+          path: profile/stats.svg
 
       - name: Generar Lenguajes
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=lukatinarelli&show_icons=true&locale=en&layout=compact
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&layout=compact
           token: ${{ secrets.TOKEN_GITHUB }}
-          path: top-langs.svg
+          path: profile/top-langs.svg
 
       - name: Commit stats
         run: |
