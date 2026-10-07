@@ -1,4 +1,4 @@
-STREAK_STATS_TOKENname: Generate GitHub Stats
+name: Generate GitHub Stats
 
 on:
   schedule:
