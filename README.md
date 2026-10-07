@@ -20,7 +20,7 @@
 ### 🛠️ &nbsp;Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,ansible,azure,bash,cpp,css,cloudflare,docker,flask,gcp,git,go,grafana,html,js,jenkins,kubernetes,linux,markdown,mysql,neovim,obsidian,php,python,sqlite,terraform,vscode&theme=light" alt="My Skills" width="1000"/>
+    <img src="https://skillicons.dev/icons?i=bash,python,cpp,go,swift,php,html,css,js,flask,mysql,sqlite,aws,azure,gcp,cloudflare,docker,kubernetes,terraform,ansible,jenkins,grafana,linux,windows,raspberrypi,git,vscode,neovim,obsidian,markdown&theme=light" alt="My Skills" width="1000"/>
   </a>
 </p>
 
